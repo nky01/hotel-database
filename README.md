@@ -55,7 +55,8 @@ El proyecto cuenta con las siguientes tablas y dependencias:
 
 * **`schema.sql`**: Script DDL que contiene la creación de todas las tablas con sus respectivas restricciones (`PRIMARY KEY`, `FOREIGN KEY`, tipos de datos).
 * **`data.sql`**: Script DML con datos de prueba (*seed data*) consistentes para poblar la base de datos y realizar testing de consultas SQL o endpoints de API.
-
+* **`queries.sql`**: Script con consultas SQL avanzadas (filtros, uniones con `JOIN`, agrupaciones con `GROUP BY` y reportes con `HAVING`) para probar la explotación de datos.
+  
 ---
 
 ## 🚀 Cómo Ejecutar el Proyecto
@@ -75,6 +76,7 @@ El proyecto cuenta con las siguientes tablas y dependencias:
 
 3. **`schema.sql`**: Crea la estructura de las tablas.
 4. **`data.sql`**: Inserta los datos de prueba.
+5. **`queries.sql`**: Ejecuta las consultas y reportes de prueba.
 
 ---
 
