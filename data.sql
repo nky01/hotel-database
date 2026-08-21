@@ -1,6 +1,4 @@
--- =============================================
 -- INSERCIÓN DE DATOS DE PRUEBA
--- =============================================
 
 -- 1. CLIENTES 
 INSERT INTO clientes (dni_cliente, nombre_cliente, apellido_cliente, telefono_cliente, email_cliente) VALUES
